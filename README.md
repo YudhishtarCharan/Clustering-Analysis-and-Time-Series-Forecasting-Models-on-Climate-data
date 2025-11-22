@@ -1,0 +1,2 @@
+# Clustering-Analysis-and-Time-Series-Forecasting-Models-on-Climate-data
+Here’s a tight version under **350 characters**:  Analyzed weather data using EDA, applied clustering (K-Means, GMM, DBSCAN) to uncover pattern groups, and used ARIMA/SARIMAX for temperature forecasting. Evaluated models with MAE and accuracy, comparing clustering insights and forecasting performance to identify the best approach.
